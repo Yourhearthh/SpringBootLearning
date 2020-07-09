@@ -1,0 +1,19 @@
+2020-07-09 === [main] === INFO  === com.logging.SpringbootLoggingApplicationTests ==== Starting SpringbootLoggingApplicationTests on DESKTOP-V9SUPMH with PID 12048 (started by DELL in D:\IdeaWork\SpringBootLearning\springboot-logging)
+2020-07-09 === [main] === INFO  === com.logging.SpringbootLoggingApplicationTests ==== No active profile set, falling back to default profiles: default
+2020-07-09 === [main] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-09 === [main] === INFO  === com.logging.SpringbootLoggingApplicationTests ==== Started SpringbootLoggingApplicationTests in 6.453 seconds (JVM running for 11.783)
+2020-07-09 === [main] === INFO  === com.logging.SpringbootLoggingApplicationTests ==== info
+2020-07-09 === [main] === WARN  === com.logging.SpringbootLoggingApplicationTests ==== warn
+2020-07-09 === [main] === ERROR === com.logging.SpringbootLoggingApplicationTests ==== error
+2020-07-09 === [SpringContextShutdownHook] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-09 === [main] === INFO  === com.logging.SpringbootLoggingApplicationTests ==== Starting SpringbootLoggingApplicationTests on DESKTOP-V9SUPMH with PID 11516 (started by DELL in D:\IdeaWork\SpringBootLearning\springboot-logging)
+2020-07-09 === [main] === DEBUG === com.logging.SpringbootLoggingApplicationTests ==== Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-09 === [main] === INFO  === com.logging.SpringbootLoggingApplicationTests ==== No active profile set, falling back to default profiles: default
+2020-07-09 === [main] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-09 === [main] === INFO  === com.logging.SpringbootLoggingApplicationTests ==== Started SpringbootLoggingApplicationTests in 6.452 seconds (JVM running for 12.367)
+2020-07-09 === [main] === TRACE === com.logging.SpringbootLoggingApplicationTests ==== 这个是trace日志
+2020-07-09 === [main] === DEBUG === com.logging.SpringbootLoggingApplicationTests ==== debug
+2020-07-09 === [main] === INFO  === com.logging.SpringbootLoggingApplicationTests ==== info
+2020-07-09 === [main] === WARN  === com.logging.SpringbootLoggingApplicationTests ==== warn
+2020-07-09 === [main] === ERROR === com.logging.SpringbootLoggingApplicationTests ==== error
+2020-07-09 === [SpringContextShutdownHook] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Shutting down ExecutorService 'applicationTaskExecutor'
