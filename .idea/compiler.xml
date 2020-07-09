@@ -6,14 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springboot-config" />
+        <module name="springboot-config02" />
         <module name="springboot-hello" />
+        <module name="springboot-logging" />
         <module name="springboot-quick" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="springboot-config" target="1.8" />
+      <module name="springboot-config02" target="1.8" />
       <module name="springboot-hello" target="1.8" />
+      <module name="springboot-logging" target="1.8" />
       <module name="springboot-quick" target="1.8" />
     </bytecodeTargetLevel>
   </component>

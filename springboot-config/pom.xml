@@ -8,10 +8,10 @@
 		<version>2.3.1.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.config</groupId>
-	<artifactId>springboot-config</artifactId>
+	<groupId>com.log</groupId>
+	<artifactId>springboot-logging</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springboot-config</name>
+	<name>springboot-logging</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
@@ -23,8 +23,6 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
-
-
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
